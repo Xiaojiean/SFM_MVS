@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libgco.a  CMakeFiles/gco.dir/GCoptimization.cpp.o CMakeFiles/gco.dir/graph.cpp.o CMakeFiles/gco.dir/LinkedBlockList.cpp.o CMakeFiles/gco.dir/maxflow.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libgco.a

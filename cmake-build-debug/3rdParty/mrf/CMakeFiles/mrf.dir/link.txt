@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libmrf.a  CMakeFiles/mrf.dir/gco_graph.cpp.o CMakeFiles/mrf.dir/graph.cpp.o CMakeFiles/mrf.dir/icm_graph.cpp.o CMakeFiles/mrf.dir/lbp_graph.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libmrf.a
